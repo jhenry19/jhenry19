@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I'm Julian and I am a student at the University of Vermont studying Computer Science, with a minor in business. I am also the treasurer of the Lawrence Debate Team here at UVM. 
+
+I'm currently looking for an internship for the summer of 2023. I'm locating in Burlington, VT.
 <!--
-**jhenry19/jhenry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
