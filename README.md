@@ -5,4 +5,4 @@ I'm Julian and I am a student at the University of Vermont studying Computer Sci
 I'm currently looking for an internship for the summer of 2023. I'm locating in Burlington, VT.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhenry19&layout=compact)](https://github.com/jhenry19/github-readme-stats)
