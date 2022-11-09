@@ -6,3 +6,5 @@ I'm currently looking for an internship for the summer of 2023. I'm locating in 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhenry19&langs_count=7)](https://github.com/jhenry19/github-readme-stats)
+
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenry19&show_icons=true&theme=radical)
